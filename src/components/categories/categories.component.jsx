@@ -1,7 +1,6 @@
 import categories from "./categories.array";
 import './categories.styles.scss'
-import CategoryItem from "../category-item/category-item.component";
-
+import CategoryItem from '../category-item/category-item.component'
 const Categories = () => {
     return (
         <div className="categories-container">
